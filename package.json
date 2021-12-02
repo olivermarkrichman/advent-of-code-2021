@@ -1,0 +1,19 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./day-$npm_config_day/puzzle-$npm_config_puzzle/solution.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivermarkrichman/advent-of-code-2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olivermarkrichman/advent-of-code-2021/issues"
+  },
+  "homepage": "https://github.com/olivermarkrichman/advent-of-code-2021#readme"
+}
